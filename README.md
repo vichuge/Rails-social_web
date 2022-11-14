@@ -53,7 +53,6 @@ Ruby: 2.7.2 Rails: 6.1.1 Postgres: >=13
 
 - GitHub: [@vichuge](https://github.com/vichuge)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/victor-pacheco-7946aab2/)
-- Twitter: [@Pachecofloresv](https://twitter.com/Pachecofloresv)
 
 
 ## 🤝 Contributing
